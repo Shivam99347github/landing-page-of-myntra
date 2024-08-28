@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    /* background-color: aqua; */
+    height: 80px;
+
+}
+ .container img{
+    height: 60px;
+    width: 65px;
+    margin-left: 30px;
+    margin-top: 13px;
+}
+.navbar{
+    margin-left: 33px;
+     display: flex;
+     align-items: center;
+     height: 50px;
+     margin-top: 16px;
+}
+
+li{
+    display: inline;
+    padding: 10px;
+    
+}
+li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14px;
+
+}
+input{
+    margin-left: 34px;
+    width: 470px;
+    height: 35px;
+    margin-right: 265px;
+    border-radius: 4px;
+    border: 0px solid black;
+    background-color: rgb(234, 233, 232);
+}
+.container1{
+    /* background-color: rgb(244, 241, 241); */
+    height: auto;
+}
+.container1 img{
+    height: 350px;
+    width: 800px;
+    margin-left: 250px;
+}
+h1{
+    margin-top:80px;
+    margin-left: 20px;
+    background-color: rgb(244, 241, 241);
+}
+
+.items{
+    margin-top: 50px;
+    margin: 70px;
+    background-color: rgb(244, 241, 241);
+
+}
+.items img{
+    height: 280px;
+    width: 250px;
+    border-radius: 20px;
+    margin-left: 0px;
+}
+p.img{
+    height: 45px;
+    
+}
+.brand{
+    margin-top: 20px;
+}
+.brand img{
+    height: 50px;
+    width: 120px;
+    margin-left: 76px;
+}
+p{
+    font-weight: bolder;
+    margin-left: 90px;
+    font-size: large;
+}
+.container3{
+    display: flex;
+    background-color: rgb(244, 241, 241);
+}
+footer{
+    text-align: center;
+    background-color: rgb(244, 241, 241);
+}
